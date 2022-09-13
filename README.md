@@ -5,7 +5,7 @@ This page contains our feature engineering pipeline source code for our manuscru
 
 ## Content
 This repo consists of three major parts: (i) a command line tool to record the eye tracking data from a [Tobii Nano Pro](https://www.tobiipro.com/product-listing/nano), (ii) a tool to calculate eye event data, and (iii) a tool to calculate features from the eye tracking data.
-We will describe in the following on how to get started with this code more detail.
+We will describe in the following on how to get started with this code in more detail.
 
 > **Prerequisites**: We recommend to use Python 3.8 and to install dependencies via `pip install -U -r requirements.txt`
 

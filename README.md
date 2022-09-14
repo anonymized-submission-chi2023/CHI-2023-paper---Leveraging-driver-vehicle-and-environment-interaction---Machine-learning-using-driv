@@ -1,6 +1,6 @@
 # CHI 2023 paper – Leveraging driver vehicle and environment interaction: Machine learning using driver monitoring cameras to detect drunk driving
 
-This page contains our feature engineering pipeline source code for our manuscrupt submitted to CHI 2023:
+This page contains our feature engineering pipeline source code for our manuscript submitted to CHI 2023:
 > Leveraging driver vehicle and environment interaction: Machine learning using driver monitoring cameras to detect drunk driving
 
 ## Content
